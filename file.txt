@@ -1,0 +1,12 @@
+arguments.sh
+bucles.sh
+case.sh
+continue_break.sh
+file.txt
+index.html
+index.sh
+index.txt
+ligical.sh
+nube.txt
+stderror.sh
+stdin.sh
